@@ -1,0 +1,37 @@
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.application
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.application
+C:\Users\esteban.carranza\Downloads\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+C:\Users\esteban.carranza\Downloads\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+C:\Users\esteban.carranza\Downloads\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+C:\Users\esteban.carranza\Downloads\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.application
+C:\Users\esteban.carranza\Downloads\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+C:\Users\esteban.carranza\Downloads\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+C:\Users\esteban.carranza\Downloads\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csprojResolveAssemblyReference.cache
+C:\Users\esteban.carranza\Downloads\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+C:\Users\esteban.carranza\Downloads\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+C:\Users\esteban.carranza\Downloads\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.Cache
+C:\Users\esteban.carranza\Downloads\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+C:\Users\esteban.carranza\Downloads\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.application
+C:\Users\esteban.carranza\Downloads\Descargas 1801\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+C:\Users\esteban.carranza\Downloads\Descargas 1801\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.application
+C:\Users\esteban.carranza\Downloads\Descargas 1801\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+C:\Users\esteban.carranza\Downloads\Descargas 1801\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+C:\Users\esteban.carranza\Downloads\Descargas 1801\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csprojResolveAssemblyReference.cache
+C:\Users\esteban.carranza\Downloads\Descargas 1801\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+C:\Users\esteban.carranza\Downloads\Descargas 1801\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+C:\Users\esteban.carranza\Downloads\Descargas 1801\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.Cache
+C:\Users\esteban.carranza\Downloads\Descargas 1801\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+C:\Users\esteban.carranza\Downloads\Descargas 1801\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+C:\Users\esteban.carranza\Downloads\Descargas 1801\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.application
+C:\Users\esteban.carranza\Downloads\Descargas 1801\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+C:\Users\esteban.carranza\Downloads\Descargas 1801\ArduinoCompurerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.pdb

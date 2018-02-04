@@ -1,0 +1,13 @@
+Como instalar el plugin:
+hay dos modos, ponerlo para todos los proyectos o ponerlo solamente para el proyecto actual.
+
+- Para todos los proyectos (actual):
+1.- Descomprimir el archivo UE4Duino.zip
+2.- Copiar toda la carpeta llamada UE4Duino a la siguiente carpeta: 
+C:\Program Files\Epic Games\UE_4.18\Engine\Plugins
+3.- Abrir el proyecto, si todo sale bien,no debería marcar ningun error
+
+- Para el proyecto unico (no recomendado :v y menos en el git >:v)
+1.- Decomprimir el archivo UE4Duino.zip
+2.- Copiar toda la carpeta llamada UE4Duino a la carpeta donde está el proyecto
+3.- Abrir el proyecto, si todo sale bien, no debería marcar ningun error :v
