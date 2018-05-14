@@ -1,0 +1,14 @@
+ANTES DE ABRIR UNREAL
+Para probar la función extraer El archivo 
+"PCH.OceanPlugin.h.pch"
+Desde la carpeta de plugins (solamente ese archivo 629 MB)
+
+Usar WinRar para NO descomprimir TODO
+
+El archivo se encuentra aqui:
+\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin
+
+
+Pegar en la carpeta plugin del proyecto:
+
+\VR_PRO_18\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin
