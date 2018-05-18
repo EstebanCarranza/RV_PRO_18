@@ -69,11 +69,11 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
-RV_PRO_18/Intermediate/*
+RV_PRO_18/Intermediate/*.*
 
 # Cache files for the editor to use
 DerivedDataCache/*
 
 # Archivos de unreal que no son necesarios para commits
-VR_PRO_18/Saved/*
-VR_PRO_18/Plugins/*
+VR_PRO_18/Saved/*.*
+VR_PRO_18/Plugins/*.*
