@@ -76,3 +76,4 @@ DerivedDataCache/*
 
 # Archivos de unreal que no son necesarios para commits
 VR_PRO_18/Saved/*
+VR_PRO_18/Plugins/*
