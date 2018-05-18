@@ -3,12 +3,6 @@
 	"EngineAssociation": "4.18",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-			"Name": "OceanPlugin",
-			"Enabled": false
-		}
-	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
