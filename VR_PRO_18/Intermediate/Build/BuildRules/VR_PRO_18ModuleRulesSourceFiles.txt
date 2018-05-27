@@ -1,0 +1,2 @@
+C:\Users\HectorRojo\Documents\GitHub\RV_PRO_18\VR_PRO_18\Plugins\OceanPlugin\Source\OceanPlugin\OceanPlugin.Build.cs
+C:\Users\HectorRojo\Documents\GitHub\RV_PRO_18\VR_PRO_18\Plugins\UE4Duino\Source\UE4Duino\UE4Duino.Build.cs
