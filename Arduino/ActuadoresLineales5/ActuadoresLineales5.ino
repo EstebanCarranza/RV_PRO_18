@@ -93,7 +93,7 @@ void loop(){
   direction = map(analogRead(pinPotenciometerD), 0, 1023, 0, 100);
 
 
-  //inputString = "STOP ";
+  inputString = "STOP ";
 
   
   //Mandar los valores a unreal
@@ -162,10 +162,9 @@ void loop(){
        Serial.println("FIN");
     }
   }
-  
   //Sin mensajes de Unreal
   else{
-    Serial.println("Sin mensajes");
+    Serial.println("Sin menajes");
     actuadorStop(pinRelayA, pinRelayB);
     actuadorStop(pinRelayC, pinRelayD);
     actuadorStop(pinRelayE, pinRelayF);
